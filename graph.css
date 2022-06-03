@@ -1,0 +1,25 @@
+.piegraph{
+       display: flex;
+       flex-direction: row;
+       margin-left: 90px;
+       margin-top: 30px;
+       background-color: #154a35;
+       height: 210px;
+       width: 450px;
+}
+.piegraph2{
+        margin-left: 50px;
+}
+.graphs{
+        display: flex;
+        flex-direction: row;
+}
+.Graph{
+        background-color: beige;
+        margin-left: 60px;
+        margin-top: 30px;
+        height: 210px;
+}
+
+
+
